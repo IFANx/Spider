@@ -115,6 +115,7 @@ def getinfo():
 
     print("getinfo结束")
     print("test")
+    print("merge")
 
 
 if __name__ == "__main__":
