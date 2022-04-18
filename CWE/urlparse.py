@@ -114,6 +114,7 @@ def getinfo():
         #     csvwriter.writerow(dic.values())
 
     print("getinfo结束")
+    print("test")
 
 
 if __name__ == "__main__":
